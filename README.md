@@ -1,4 +1,4 @@
-### Hi there 👋
+#### Hi there 👋
 
 Welcome to my work-in-progress Github page! I'm Jia Hui, 26 year old self-taught/learnt-on-the-job bioinformatician :)
 
@@ -9,7 +9,7 @@ Welcome to my work-in-progress Github page! I'm Jia Hui, 26 year old self-taught
 - Microsoft powertoys's FancyZones is a life-changing tool 
 
 
-### :computer: Programming languages and tools that I have used (from most confident to least: 
+### :computer: Programming languages and tools that I have used (from most confident to least): 
 <p>
 	
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
