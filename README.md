@@ -6,7 +6,7 @@ Welcome to my work-in-progress Github page! I'm Jia Hui, 26 year old self-taught
 - Bioinformatics machine learning project for work
 - Revisiting relational and non-relational databases
 ### 🌱 Interesting things I've learnt recently:
-- Microsoft powertoys's FancyZones is a life-changing tool 
+- Microsoft powertoys's [FancyZones](https://learn.microsoft.com/en-us/windows/powertoys/fancyzones) is a life-changing tool 
 
 
 ### :computer: Programming languages and tools that I have used (from most confident to least): 
