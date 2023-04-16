@@ -6,7 +6,7 @@ I'm Jia Hui
 <p>
 	
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="10%" src="[url=https://seekvectorlogo.net/mathworks-vector-logo-svg/][img]https://seekvectorlogo.net/wp-content/uploads/2020/03/mathworks-vector-logo.png[/img][/url]"></code>
+<code><img width="10%" src="https://seekvectorlogo.net/wp-content/uploads/2020/03/mathworks-vector-logo.png"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
