@@ -5,7 +5,7 @@ Welcome to my work-in-progress Github page! I'm Jia Hui, 26 year old self-taught
 ### 🔭 Currently working on:
 - Bioinformatics machine learning project for work
 - Revisiting relational and non-relational databases
-#### 🌱 Interesting things I've learnt recently:
+### 🌱 Interesting things I've learnt recently:
 - Microsoft powertoys's FancyZones is a life-changing tool 
 
 
@@ -26,7 +26,9 @@ Welcome to my work-in-progress Github page! I'm Jia Hui, 26 year old self-taught
 	
 <br />
 
-	
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/wongjh12)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jia-hui-wong-4119a4158/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:iuhaijgnow@gmail.com)
 
 <!--
 **wongjh12/wongjh12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
