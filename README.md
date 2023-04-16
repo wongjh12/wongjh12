@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my work-in-progress Github page! I'm Jia Hui, 26 year old self taught/on-the-job-learning bioinformatician :)
+Welcome to my work-in-progress Github page! I'm Jia Hui, 26 year old self-taught/learnt-on-the-job bioinformatician :)
 
 🔭 Currently working on:
 	Bioinformatics machine learning project for work
