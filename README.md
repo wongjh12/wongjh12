@@ -14,7 +14,7 @@ Welcome to my work-in-progress Github page! I'm Jia Hui, 26 year old self-taught
 	
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://seekvectorlogo.net/wp-content/uploads/2020/03/mathworks-vector-logo.png"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>	
